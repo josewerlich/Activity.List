@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        //create a program to calculate the  weighted mean for two test
+        //create a program to calculate the weighted average for two test
         static void Main(string[] args)
         {
             #region input
