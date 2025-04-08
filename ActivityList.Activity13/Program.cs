@@ -25,7 +25,7 @@
 
                 {
 
-                    Console.Write("X ");
+                    Console.Write("*");
 
                 }
 
